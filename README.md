@@ -41,7 +41,11 @@ These ML solutions collectively improve efficiency, transparency, and accessibil
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Download a zip file of the website [here](https://drive.google.com/file/d/1MxfSTtgB-5QnG692B5x2mJS1ZAQyb2Tu/view?usp=share_link)
+
 ### Getting Started
+
+Unzip the alusive_website folder
 
 First, run the development server:
 
